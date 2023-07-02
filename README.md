@@ -1,0 +1,1 @@
+# Boto3-library-to-send-an-email-using-the-SES-service-for-each-email-ID-you-retrieve.
